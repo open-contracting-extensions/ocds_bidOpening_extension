@@ -3,7 +3,7 @@
     "en": "Bid opening"
   },
   "description": {
-    "en": "Adds a bid opening object to describe the date, time, place and details of the bid opening."
+    "en": "Adds an object to describe the date, time, place and other details of the bid opening."
   },
   "documentationUrl": {
     "en": "https://github.com/open-contracting-extensions/ocds_bidOpening_extension"

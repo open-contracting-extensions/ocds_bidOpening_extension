@@ -1,6 +1,6 @@
 # Bid opening
 
-Adds a bid opening object to describe the date, time, place and details of the bid opening.
+Adds an object to describe the date, time, place and other details of the bid opening.
 
 ## Legal context
 
@@ -33,7 +33,7 @@ In the European Union, this extension's fields correspond to [eForms BT-132, BT-
           },
           "uri": "http://www.geonames.org/2640729/oxford.html"
         },
-        "details": "We recommend that people who wish to attend the opening register on this page: https://wwww.example.org/register"
+        "description": "We recommend that people who wish to attend the opening register on this page: https://wwww.example.org/register"
       }
     ]
   }

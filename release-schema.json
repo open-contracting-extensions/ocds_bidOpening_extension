@@ -4,14 +4,14 @@
       "properties": {
         "bidOpening": {
           "title": "Bid opening",
-          "description": "The date, time, place and other details about the bid opening.",
+          "description": "The date, time, place and other details of the bid opening.",
           "$ref": "#/definitions/BidOpening"
         }
       }
     },
     "BidOpening": {
       "title": "Bid opening",
-      "description": "The date, time, place and other details about the bid opening.",
+      "description": "The date, time, place and other details of the bid opening.",
       "type": "object",
       "properties": {
         "date": {
@@ -33,9 +33,9 @@
           "description": "The address of the place where the bid opening occurs.",
           "$ref": "#/definitions/Address"
         },
-        "details": {
+        "description": {
           "title": "Details",
-          "description": "Any details worth mentioning about the bid opening: registration, authorizations needed, etc.",
+          "description": "Any other details about the bid opening (who can participate, whether authorization is needed, etc.).",
           "type": [
             "string",
             "null"
