@@ -11,36 +11,34 @@ In the European Union, this extension's fields correspond to [eForms BT-132, BT-
 ```json
 {
   "tender": {
-    "bidOpening": [
-      {
-        "date": "2019-10-16T15:00:00+01:00",
-        "address": {
-          "streetAddress": "Town Hall, St Aldate's",
-          "region": "Oxfordshire",
-          "locality": "Oxford",
-          "postalCode": "OX1 1BX",
-          "countryName": "United Kingdom"
+    "bidOpening": {
+      "date": "2019-10-16T15:00:00+01:00",
+      "address": {
+        "streetAddress": "Town Hall, St Aldate's",
+        "region": "Oxfordshire",
+        "locality": "Oxford",
+        "postalCode": "OX1 1BX",
+        "countryName": "United Kingdom"
+      },
+      "location": {
+        "description": "Central Oxford",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            51.751944,
+            -1.257778
+          ]
         },
-        "location": {
-          "description": "Central Oxford",
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              51.751944,
-              -1.257778
-            ]
-          },
-          "gazetteer": {
-            "scheme": "GEONAMES",
-            "identifiers": [
-              "2640729"
-            ]
-          },
-          "uri": "http://www.geonames.org/2640729/oxford.html"
+        "gazetteer": {
+          "scheme": "GEONAMES",
+          "identifiers": [
+            "2640729"
+          ]
         },
-        "description": "We recommend that people who wish to attend the opening register on this page: https://wwww.example.org/register"
-      }
-    ]
+        "uri": "http://www.geonames.org/2640729/oxford.html"
+      },
+      "description": "We recommend that people who wish to attend the opening register on this page: https://wwww.example.org/register"
+    }
   }
 }
 ```
