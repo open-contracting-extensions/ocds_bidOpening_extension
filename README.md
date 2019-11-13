@@ -25,11 +25,16 @@ In the European Union, this extension's fields correspond to [eForms BT-132, BT-
           "description": "Central Oxford",
           "geometry": {
             "type": "Point",
-            "coordinates": [51.751944, -1.257778]
+            "coordinates": [
+              51.751944,
+              -1.257778
+            ]
           },
           "gazetteer": {
             "scheme": "GEONAMES",
-            "identifiers": ["2640729"]
+            "identifiers": [
+              "2640729"
+            ]
           },
           "uri": "http://www.geonames.org/2640729/oxford.html"
         },
