@@ -52,6 +52,7 @@ In the European Union, this extension's fields correspond to [eForms BT-132 (Pub
   "tender": {
     "lots": [
       {
+        "id": "1",
         "bidOpening": {
           "date": "2019-10-16T15:00:00+01:00",
           "address": {
