@@ -80,7 +80,7 @@ In the European Union, this extension's fields correspond to [eForms BT-132 (Pub
             "uri": "http://www.geonames.org/2640729/oxford.html"
           },
           "description": "We recommend that people who wish to attend the opening register on this page: https://wwww.example.org/register"
-        } 
+        }
       }
     ]
   }
