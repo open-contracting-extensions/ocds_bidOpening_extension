@@ -9,6 +9,15 @@
         }
       }
     },
+    "Lot": {
+      "properties": {
+        "bidOpening": {
+          "title": "Bid opening",
+          "description": "The date, time, place and other details of the bid opening.",
+          "$ref": "#/definitions/BidOpening"
+        }
+      }
+    },
     "BidOpening": {
       "title": "Bid opening",
       "description": "The date, time, place and other details of the bid opening.",
