@@ -97,7 +97,7 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ### 2023-02-13
 
-* Add `Lot.bidOpening`.
+* Add `Lot.bidOpening` field.
 
 ### 2020-04-24
 
