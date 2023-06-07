@@ -1,6 +1,6 @@
 # Bid opening
 
-Adds an object to describe the date, time, place and other details of the bid opening.
+Adds an object to describe the date, time, place and other details of the public bid opening.
 
 If you are using the [Lots extension](https://extensions.open-contracting.org/en/extensions/lots/master/), [follow its guidance](https://extensions.open-contracting.org/en/extensions/lots/master/#usage) on whether to use `tender.lots` fields or `tender` fields.
 
@@ -94,6 +94,10 @@ In the European Union, this extension's fields correspond to [eForms BT-132 (Pub
 Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.
 
 ## Changelog
+
+### 2023-06-07
+
+* Clarify that the extension is for bid openings that are public events.
 
 ### 2023-02-13
 

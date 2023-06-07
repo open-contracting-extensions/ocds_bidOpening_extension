@@ -4,7 +4,7 @@
       "properties": {
         "bidOpening": {
           "title": "Bid opening",
-          "description": "The date, time, place and other details of the bid opening.",
+          "description": "The date, time, place and other details of the public bid opening.",
           "$ref": "#/definitions/BidOpening"
         }
       }
@@ -13,14 +13,14 @@
       "properties": {
         "bidOpening": {
           "title": "Bid opening",
-          "description": "The date, time, place and other details of the bid opening.",
+          "description": "The date, time, place and other details of the public bid opening.",
           "$ref": "#/definitions/BidOpening"
         }
       }
     },
     "BidOpening": {
       "title": "Bid opening",
-      "description": "The date, time, place and other details of the bid opening.",
+      "description": "The date, time, place and other details of the public bid opening.",
       "type": "object",
       "properties": {
         "date": {
