@@ -2,9 +2,11 @@
 
 Adds an object to describe the date, time, place and other details of the public bid opening.
 
-If you are using the [Lots extension](https://extensions.open-contracting.org/en/extensions/lots/master/), [follow its guidance](https://extensions.open-contracting.org/en/extensions/lots/master/#usage) on whether to use `tender.lots` fields or `tender` fields.
-
 This extension must be used with the [Location](https://extensions.open-contracting.org/en/extensions/location/master/) extension.
+
+## Guidance
+
+If you are using the [Lots extension](https://extensions.open-contracting.org/en/extensions/lots/master/), [follow its guidance](https://extensions.open-contracting.org/en/extensions/lots/master/#guidance) on whether to use `tender.lots` fields or `tender` fields.
 
 ## Legal context
 
